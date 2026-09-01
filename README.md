@@ -1,4 +1,3 @@
-<!-- fallback_ChainForgeLegend_20260901141719_88247 -->
 
 # ChainForgeLegend
 
